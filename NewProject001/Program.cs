@@ -14,6 +14,11 @@ namespace NewProject001
             string age = Console.ReadLine();
 
             string add = Console.ReadLine();
+            string id = Console.ReadLine();
+            string pw = Console.ReadLine();
+
+            Console.WriteLine(name + " / " + age + " / " + add + " / " + id + " / " + pw);
+
         }
     }
 }
