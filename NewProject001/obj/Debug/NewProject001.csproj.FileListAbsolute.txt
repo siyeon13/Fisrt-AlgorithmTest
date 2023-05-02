@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\NewProject001\NewProject001\bin\Debug\NewProject001.exe.config
+C:\Users\User\source\repos\NewProject001\NewProject001\bin\Debug\NewProject001.exe
+C:\Users\User\source\repos\NewProject001\NewProject001\bin\Debug\NewProject001.pdb
+C:\Users\User\source\repos\NewProject001\NewProject001\obj\Debug\NewProject001.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NewProject001\NewProject001\obj\Debug\NewProject001.exe
+C:\Users\User\source\repos\NewProject001\NewProject001\obj\Debug\NewProject001.pdb
