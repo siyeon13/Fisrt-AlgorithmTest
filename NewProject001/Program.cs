@@ -13,6 +13,7 @@ namespace NewProject001
             string name = Console.ReadLine();
             string age = Console.ReadLine();
 
+            string add = Console.ReadLine();
         }
     }
 }
