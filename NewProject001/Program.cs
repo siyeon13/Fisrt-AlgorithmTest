@@ -37,5 +37,10 @@ namespace NewProject001
 
 
         }
+
+        public void Dive()
+        {
+
+        }
     }
 }
